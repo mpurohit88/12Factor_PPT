@@ -35,7 +35,7 @@
 
 #HSLIDE
 
----?image=images/release.png&size=auto 75% 75%
+---?image=images/release.png&size=contain
 
 #HSLIDE
 
