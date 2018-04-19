@@ -6,7 +6,7 @@
 
 #HSLIDE
 
-# Why 12 Factor
+# Why 12 Factor ?
 
 #HSLIDE
 
@@ -74,4 +74,4 @@
 
 #HSLIDE
 
-# Thank you
+# Thank you :)
