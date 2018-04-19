@@ -2,7 +2,7 @@
 
 # 12 Factor
 
-<span class="primary"><strong>Mukesh Purohit & Anusha Pakalakunja </strong></span> - 19 April 2018
+<span class="primary"><strong> Anusha Pakalakunja & Mukesh Purohit </strong></span> - 19 April 2018
 
 #HSLIDE
 
