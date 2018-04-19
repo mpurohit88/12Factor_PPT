@@ -12,6 +12,8 @@
 
 ## I. Codebase
 - One codebase tracked in revision control, many deploys
+- Multiple apps sharing the same code is a violation of twelve-factor
+- The codebase is the same across all deploys, although different versions may be active in each deploy.
 
 #HSLIDE
 
@@ -32,10 +34,6 @@
 
 ## V. Build, release, run
 - Strictly separate build and run stages
-
-#HSLIDE
-
----?image=images/release.png&size=contain
 
 #HSLIDE
 
