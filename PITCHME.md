@@ -33,7 +33,7 @@
 ## V. Build, release, run
 - Strictly separate build and run stages
 
----?image=images/release.png
+---?image=images/release.png&size=auto 50%
 
 #HSLIDE
 
